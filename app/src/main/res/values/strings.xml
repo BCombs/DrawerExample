@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) 2018 - Bill Combs
+  -->
+
+<resources>
+    <string name="app_name">Drawer Example</string>
+    <string name="import_string">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="manage">Manage</string>
+    <string name="header_title">Example Drawer Navigation</string>
+</resources>
